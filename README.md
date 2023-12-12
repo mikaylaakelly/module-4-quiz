@@ -22,7 +22,10 @@ WHEN the game is over
 <br>
 THEN I can save my initials and score
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 C:\Users\15138\Documents\module-4-quiz\Screenshot (5).png
 >>>>>>> 2ddf77032a409e03bd7826aa4f18ac8de71d62df
+=======
+>>>>>>> fafa9b96f23c52f18e3b54fbac04176f2bb21b18
