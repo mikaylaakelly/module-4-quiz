@@ -23,3 +23,5 @@ WHEN the game is over
 THEN I can save my initials and score
 
 https://github.com/mikaylaakelly/module-4-quiz/blob/main/Screenshot%20(5).png
+<br>
+StarterCode/YouTube videos I watched to help me: https://www.youtube.com/watch?v=riDzcEQbX6k <br> https://www.youtube.com/watch?v=WUBhpSRS_fk&t=176s <br> https://www.youtube.com/watch?v=PBcqGxrr9g8&t=468s
