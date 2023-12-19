@@ -91,8 +91,6 @@ function startTimer() {
             document.getElementById('timer').innerText = `Time Left: ${timeRemaining} seconds`;
         }
     }
-
-    // Set up a timer to update every second
     timer = setInterval(updateTimer, 1000);
 }
 
@@ -197,14 +195,11 @@ function submitScore() {
     playerName = playerNameInput.value.trim();
 
     if (playerName !== "") {
-        // Save the score and player name to high scores
         addHighScore(playerName, score);
-        // Display high scores
         displayHighScores();
-        // Hide the form
         document.getElementById("score-form").style.display = "none";
     } else {
-        alert("Please enter your name before submitting your score.");
+        alert("Please enter your initials!");
     }
 }
 

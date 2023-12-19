@@ -11,7 +11,7 @@ body {
 
 }
 
-.app {
+.container {
     background-color: white;
     width: 90%;
     max-width: 600px;
@@ -20,7 +20,7 @@ body {
     padding: 30px;
 }
 
-.app h1 {
+.container h1 {
     font-size: 25px;
     font-weight: 600;
     color: palevioletred;
@@ -28,7 +28,7 @@ body {
     padding-bottom: 30px;
 }
 
-.app h2 {
+.container h2 {
     color: palevioletred;
     padding-top: 25px;
     border-bottom: 1 px solid palevioletred;
